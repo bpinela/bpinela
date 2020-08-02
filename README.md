@@ -7,6 +7,13 @@ I've been working as Front-End Developer since 2013 and currently I'm Front end 
 🏊 Currently building some web and mobile applications from SESC SP, working there as consultant <br>
 🌱 Building a mobile application to launch on goggle play (*Surprise*) 🤭 <br>
 
+### Featured techs ⚛️
+
+- React
+- React native
+- Node
+- Typescript
+
 ### Feel free to contact me 📧
 
 ☕ [Site](https://pineladsn.github.io) <br>
