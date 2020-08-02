@@ -11,3 +11,5 @@ I've been working as Front-End Developer since 2013 and currently I'm Front end 
 
 ☕ [Site](https://pineladsn.github.io) <br>
 💼 [LinkedIn](https://www.linkedin.com/in/bruno-pinela)
+
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=pineladsn&show_icons=true" alt="pineladsn" /> </p>
