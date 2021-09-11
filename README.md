@@ -20,6 +20,6 @@ I've been working as Front-End Developer since 2013 and currently I'm Front end 
 💼 [LinkedIn](https://www.linkedin.com/in/bruno-pinela)
 
 <div align="center"> 
-  <img width="60%" src="https://github-readme-stats.vercel.app/api?username=pineladsn&show_icons=true" alt="pineladsn" />
+  <img width="55%" src="https://github-readme-stats.vercel.app/api?username=pineladsn&show_icons=true" alt="pineladsn" />
   <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeanoliveira92&layout=compact&langs_count=7&title_color=58a6ff&bg_color=282a36&text_color=FFF&icon_color=58a6ff&hide_border=true&locale=pt-br&hide=C%23"/>
 </div>
