@@ -1,11 +1,10 @@
-### Hi there, I'm Bruno Pinela 👋
+### Hi there, I'm Bruno Pinela ☕
 
-I've been working as Front-End Developer since 2013 and currently I'm Front end developer at [Redspark](https://www.redspark.io/).
+[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bruno-pinela) 
+[![Codepen Badge](	https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/bpinela)  
+[![Devto Badge](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev-dot-to&logoColor=white)](https://dev.to/pineladsn)
 
-### What I'm working on 💻
-
-🏊 Currently building some web and mobile applications from SESC SP, working there as consultant <br>
-🌱 Building a mobile application to launch on goggle play (*Surprise*) 🤭 <br>
+I've been working as Front-End Developer since 2013
 
 ### Featured techs ⚛️
 
@@ -16,10 +15,4 @@ I've been working as Front-End Developer since 2013 and currently I'm Front end 
 
 ### Feel free to contact me 📧
 
-☕ [Site](https://pineladsn.github.io) <br>
-💼 [LinkedIn](https://www.linkedin.com/in/bruno-pinela)
-
-<div align="center"> 
-  <img width="55%" src="https://github-readme-stats.vercel.app/api?username=pineladsn&show_icons=true" alt="pineladsn" />
-  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pineladsn&layout=compact&langs_count=8&title_color=58a6ff&bg_color=282a36&text_color=FFF&icon_color=58a6ff&hide_border=true&locale=pt-br&hide=C%23"/>
-</div>
+:mailbox: contact me: bruno.pinelamarques@gmail.com
