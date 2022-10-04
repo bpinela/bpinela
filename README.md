@@ -15,4 +15,4 @@ I've been working as Front-End Developer since 2013
 
 ### Feel free to contact me 📧
 
-:mailbox: contact me: bruno.pinelamarques@gmail.com
+:mailbox: email: bruno.pinelamarques@gmail.com
