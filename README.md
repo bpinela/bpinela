@@ -14,12 +14,9 @@ I've been working as Developer since 2013
 - Node
 
 ### Find me elsewhere 🌎
-<div>
+
   🖥️ [Site](https://bpinela.github.io/)
-</div>
-<div>
+
   🐦 [Twitter](https://x.com/pinelabm)
-</div>
-<div>
-  📸 [Instagram](https://www.instagram.com/pinelabm/)
-</div>
+
+  📷 [Instagram](https://www.instagram.com/pinelabm/)
