@@ -14,7 +14,7 @@ I've been working as Front-End Developer since 2013
 
 ### Find me elsewhere 🌎
 
-🚀 Site(https://bpinela.github.io/)
+🚀 [Site](https://bpinela.github.io/)
 🐦 Twitter(https://x.com/pinelabm)
 📸 Instagram(https://www.instagram.com/pinelabm/)
 💼 LinkedIn(https://www.linkedin.com/in/bruno-pinela)
