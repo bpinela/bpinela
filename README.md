@@ -12,6 +12,9 @@ I've been working as Front-End Developer since 2013
 - Node
 - Typescript
 
-### Feel free to contact me 📧
+### Find me elsewhere 🌎
 
-:mailbox: email: bruno.pinelamarques@gmail.com
+🚀 Site(https://bpinela.github.io/)
+🐦 Twitter(https://x.com/pinelabm)
+📸 Instagram(https://www.instagram.com/pinelabm/)
+💼 LinkedIn(https://www.linkedin.com/in/bruno-pinela)
